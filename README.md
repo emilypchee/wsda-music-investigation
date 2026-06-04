@@ -34,7 +34,7 @@ comment block explaining the business question it addresses.
 - **DAX** — custom measures for revenue, ranking, and time intelligence
 
 ## How to Use This File
-1. Download `report/WSDA_Music_Investigation.pbix`
+1. Download `report/WSDA Music Employee Investigation Dashboard.pbix`
 2. Open in Power BI Desktop (free download from Microsoft)
 3. The embedded dataset loads automatically
 
