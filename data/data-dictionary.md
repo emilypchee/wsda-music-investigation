@@ -1,4 +1,4 @@
-# Data Dictionary — Chinook Database (WSDA Music)
+# Data Dictionary — WSDA Music
 
 ## Employee
 Stores employee records. Key columns: EmployeeId, FirstName, LastName,
